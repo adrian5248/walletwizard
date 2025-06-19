@@ -18,7 +18,7 @@ class HomeScreen extends StatelessWidget {
                 children: [
                   Text.rich(
                     TextSpan(
-                      text: 'Hi, Daniela\n',
+                      text: 'Hi, Adro\n',
                       style: TextStyle(color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold),
                       children: [
                         TextSpan(
